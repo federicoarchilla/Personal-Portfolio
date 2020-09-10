@@ -1,0 +1,69 @@
+<script src="https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js"></script>
+
+<link href="https://fonts.googleapis.com/css2?family=Happy+Monkey&display=swap" rel="stylesheet">
+
+<link href="https://fonts.googleapis.com/css2?family=Supermercado+One&display=swap" rel="stylesheet">
+
+<link href="https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@500&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Geostar+Fill&display=swap" rel="stylesheet"> 
+
+<nav id="navbar" class="nav">
+  <ul class="nav-list">
+    <li>
+      <a href="welcome-section">Sobre mí</a>
+    </li>
+    <li>
+      <a href="jobs">Trabajos</a>
+    </li>
+    <li>
+      <a href="contact">Contacto</a>
+    </li>
+  </ul>  
+</nav>
+<section id="welcome-section" class="welcome-section">
+  <h1>Hi! I am fefo</h1>
+  <p>a beginner web developer</p>
+</section>
+
+<section id="projects" class="projects-section">
+  <h2 class="projects-section-header">These are my projects</h2>
+  <div class="projects-grid">
+    <a href="https://codepen.io/federicoarchilla/full/wvGeWaB" target="_blank" class="project project-tile">
+      <img class="project-image" src="" alt="">
+      <p>
+        <span class="code">&lt;</span>
+        Tribute Page
+        <span class="code">&#47;&gt;</span>
+      </p>
+    </a>
+    <a href="" target="" class="">
+      <img class="" src="" alt="">
+      <p>
+        <span class="code">&lt;</span>
+        Survey Education
+        <span class="code">&#47;&gt;</span>
+      </p>
+    </a>
+    <a href="" target="" class="">
+      <img class="" src="" alt="">
+      <p>
+        <span class="code">&lt;</span>
+        Product Landing Page
+        <span class="code">&#47;&gt;</span>
+      </p>
+    </a>
+    <a href="" target="" class="">
+      <img class="" src="" alt="">
+      <p>
+        <span class="code">&lt;</span>
+        Documentation Page
+        <span class="code">&#47;&gt;</span>
+      </p>
+    </a>
+  </div>
+  
+</section>
+
+<section id="contact">
+  
+</section>
